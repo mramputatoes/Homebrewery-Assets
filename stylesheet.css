@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Avenir Next Condensed';
+    font-family: 'avenir-next-condensed-bold';
     src: url('AvenirNextCondensed-Bold.woff2') format('woff2'),
     font-weight: bold;
     font-style: normal;
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: 'Avenir Next Condensed';
+    font-family: 'avenir-next-condensed-bolditalic';
     src: url('AvenirNextCondensed-BoldItalic.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
@@ -16,7 +16,7 @@
 
 
 @font-face {
-    font-family: 'Avenir Next Condensed';
+    font-family: 'avenir-next-condensed-italic';
     src: url('AvenirNextCondensed-Italic.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
@@ -24,7 +24,7 @@
 }
 
 @font-face {
-    font-family: 'Avenir Next Condensed';
+    font-family: 'avenir-next-condensed-regular';
     src: url('AvenirNextCondensed-Regular.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
